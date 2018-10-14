@@ -1,0 +1,17 @@
+{
+  "name": "spork-hello-world-bundle",
+  "version": "1.0.0",
+  "description": "A Hello World counter bundle using Spork, an Elm-like library for PureScript.",
+  "main": "index.js",
+  "directories": {
+    "test": "test"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "MIT",
+  "dependencies": {
+    "uglify-js": "^3.4.9"
+  }
+}
